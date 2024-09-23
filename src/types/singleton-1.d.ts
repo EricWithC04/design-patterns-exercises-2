@@ -1,0 +1,1 @@
+export type NivelRegistro = "DEBUG" | "INFO" | "WARNING" | "ERROR" | "CRITICAL";
